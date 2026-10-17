@@ -12,6 +12,16 @@ Private beta. The first beta is being dogfooded on real software development
 before external access opens. First focus: macOS with Claude Code and Codex.
 Linux support is being validated as part of the same architecture.
 
+## Supported tools
+
+- Claude Code in the terminal: supported.
+- Claude Code in the Claude desktop app: supported. MAICA sees these sessions
+  like those in the terminal, but "Go to session" cannot open one specific
+  session of the app.
+- Codex CLI in the terminal: supported.
+- Codex desktop app: not supported. The app runs its sessions privately, so
+  MAICA cannot see them.
+
 Request access: https://kigazon.com/maica.html#private-beta
 
 ## What MAICA is not

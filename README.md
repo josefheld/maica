@@ -78,7 +78,7 @@ Where MAICA is heading next. This is a direction, not a promise, and there are n
 feature has to show that it saves you interruptions, completes more work reliably or makes
 results more trustworthy.
 
-- **Fewer routine approvals, same control.** More decisions settle themselves when they are safe;
+- **Fewer routine approvals, same control.** More decisions settle themselves within the limits you approved;
   everything else still comes to you as a card.
 - **One place for every decision.** *Now* takes over everything that waits for you, so you do not
   have to look in a second list.
